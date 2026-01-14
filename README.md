@@ -112,7 +112,7 @@ I am a passionate **Ethical Hacker** and **Software Developer** from **Bogura, B
   <img src="./mejbankadir3.png" height="200" alt="Mejban" />
   <img src="./mejbankadir4.png" height="200" alt="Mejban" />
   <br/>
-  <img src="./mejbankadirwithkangaroo.jpg" height="200" alt="Mejban with Kangaroo" />
+  <img src="./mejbankadirwithkangaroo.png" height="200" alt="Mejban with Kangaroo" />
   <img src="./SMHposter.png" height="200" alt="SMH Poster" />
   <img src="./smhlogo.jpg" height="200" alt="SMH Logo" />
   <br/>
